@@ -1,1 +1,1 @@
-# friendyai.github.io
+# friendlyai.github.io

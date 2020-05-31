@@ -47,24 +47,22 @@ a:visited {
 .profile-container {
     display: grid;
     grid-template-columns: 40% 60%;
-    padding: 20px;
-    padding-right: 15%;
-    padding-left: 15%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 .profile-item {
-    padding: 30px;
+    padding: 20px;
 }
 
 /* Grid */
 .grid-container {
     display: grid;
     grid-template-columns: minmax(20px, auto) minmax(20px, auto) minmax(20px, auto);
-    padding: 20px;
-    padding-right: 15%;
-    padding-left: 15%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 .grid-item {
-    padding: 30px;
+    padding: 20px;
     text-align: center;
 }
 
